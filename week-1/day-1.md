@@ -1,6 +1,5 @@
 # Week 1 Day 1
 
-
 | Time | Activity |
 | --- | --- |
 09:00 | Campus Tour & Orientation
