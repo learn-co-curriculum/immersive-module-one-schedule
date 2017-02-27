@@ -7,6 +7,7 @@
 | 10:30 | Lecture: Moronic Monday |
 | 12:00 | Lunch |
 | 01:00 | Labs! Labs! Labs! |
+| 04:00 | Review: ActiveRecord Migrations |
 
 ### Today's Topics
 + ORMs And ActiveRecord - Associations
