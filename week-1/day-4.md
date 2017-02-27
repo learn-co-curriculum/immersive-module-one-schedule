@@ -1,4 +1,4 @@
-# Week 1 Day 4 
+# Week 1 Day 4
 
 | Time | Activity |
 | --- | --- |
@@ -22,7 +22,7 @@ Grab a pair and work together on the three OO labs (My Pets, Kickstarter and Ban
 ### Objectives
 
 - Understand object-oriented relationships
-- Use has\_many and belongs\_to
+- Use has_many and belongs_to
 - Understand how objects encapsulate code and clarify responsibility
 
 ### Labs

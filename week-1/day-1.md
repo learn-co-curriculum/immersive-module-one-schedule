@@ -13,6 +13,7 @@
 ### Today's Topics
 + Introduction
 + Ruby - More on Hashes
+
 ### Objectives
 
 - Deploy on Day 1: Work with your table group to make your class's student website

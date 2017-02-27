@@ -14,6 +14,11 @@
 + Object Oriented Ruby - Final Projects
 + Object Oriented Ruby - BONUS: Scraping
 
+### Lecture Topics
++ Environment Setup (bundler, requiring files)
++ Testing
++ CLI Applications
+
 ### Notes
 
 Jess Lava (from Career Services) will be joining us today at 9am. Plan to arrive a few minutes early so we can hit the ground running.  We're going to do our first mini project - a CLI program. SOOOOOOOO MUCH EXCITEMENT! It's also our first Feelings Friday, so feel all the things.

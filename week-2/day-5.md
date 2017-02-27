@@ -1,7 +1,4 @@
-# Week 2 Day 5 - Friday, February 17, 2017
-
-Random Fact: 43% of the anonymous people you talk to on the internet are actually spiders making friends.
-
+# Week 2 Day 5
 
 | Time | Activity |
 | --- | --- |
@@ -10,7 +7,6 @@ Random Fact: 43% of the anonymous people you talk to on the internet are actuall
 | 10:30 | Lecture: Wrap Up Boats (Kay) |
 | 12:00 | Lunch |
 | 01:00 | Labs! Labs! Labs! |
-| 04:30 | CTO of the United States (Turing) |
 | 05:00 | Feelings Friday (Turing) |
 
 ### Today's Topics

@@ -2,7 +2,7 @@
 
 | Time | Activity |
 | --- | --- |
-09:00 | TODO: [Group Discussion Questions](https://learn.co/tracks/web-development-immersive-winter-2016/ruby/week-1-day-2-discussion-points/immersive-week-1-discussion-questions)
+09:00 | TODO: Week 1 Day 2 Discussion Questions
 09:30 | Lecture: Ruby & the Outside World
 10:30 | Proper Pairing with Steven
 11:30 | Star Wars API Project
@@ -31,6 +31,7 @@
 - [Group Project- star-wars-api](https://github.com/learn-co-students/apis-and-iteration-web-0217)
 
 #### Homework
+
 - [classes-and-instances-lab](https://github.com/learn-co-students/classes-and-instances-lab-ruby-web-0217)
 - [oo-cash-register](https://github.com/learn-co-students/oo-cash-register-web-0217)
 - [puppy-lab](https://github.com/learn-co-students/ruby-puppy-web-0217)
