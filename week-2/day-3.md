@@ -4,11 +4,11 @@
 | --- | --- |
 | 09:00 | Work on Labs |
 | 09:30 | Blogs |
-| 10:00 | ORM Lecture |
+| 10:00 | Lecture: ORMs |
 | 12:00 | Lunch |
 | 01:00 | Labs! Labs! Labs! |
-| 02:00 | Presentations: A Presentation with Joe (Kay) |
-| 03:00 | Talk from Tim Holman (Turing - optional, but recommended) |
+| 02:00 | Presentations: How To Give a Presentation |
+| 03:00 | Guest Speaker |
 | 04:00 | Labs! Labs! Labs! |
 
 ### Today's Topics

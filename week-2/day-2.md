@@ -4,9 +4,8 @@
 | --- | --- |
 | 09:00 | Work on Labs |
 | 09:30 | Blogs |
-| 10:00 | SQL Lecture + Lab Review (Kay) |
-| 12:00 | Product Series + Lunch |
-| 01:30 | Lab Review + Intro to ORMs (Kay) |
+| 10:00 | SQL Lecture - Domain Modeling  |
+| 12:00 | Lunch |
 | 03:00 | Labs! Labs! Labs! |
 
 ### Today's Topics

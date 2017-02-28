@@ -4,7 +4,7 @@
 | --- | --- |
 | 09:00 | Keep working on OO Labs |
 | 12:00 | Mixer Lunch with Web 1116! |
-| 01:00 | Star Wars API Lab Review |
+| 01:00 | Lecture: Intro to OO |
 | 03:00 | Work on OO Labs |
 
 ### Today's Topic

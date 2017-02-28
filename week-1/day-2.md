@@ -4,16 +4,16 @@
 | --- | --- |
 09:00 | TODO: Week 1 Day 2 Discussion Questions
 09:30 | Lecture: Ruby & the Outside World
-10:30 | Proper Pairing with Steven
+10:30 | Proper Pairing
 11:30 | Star Wars API Project
 12:00 | Lunch (eat on campus)
-01:00 | Logistics with Joe
-02:00 | Icebreaker: A Big Wind Blows
+01:00 | Logistics Talk
+02:00 | Icebreaker
 03:00 | Star Wars API Project
 
 ### Today's Topics
 + Ruby - Ruby Group Project
-+ Object Oriented Ruby - Intro to Object Oreientation
++ Object Oriented Ruby - Intro to Object Orientation
 + Object Oriented Ruby - Classes and Instances
 + Object Oriented Ruby - Instance Methods
 + Object Oriented Ruby - Object Properties

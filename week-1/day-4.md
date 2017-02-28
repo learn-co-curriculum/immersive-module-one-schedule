@@ -5,7 +5,7 @@
 | 09:00 | Pair Programming for OO Labs|
 | 12:00 | Lunch |
 | 01:00 | Work on OO Labs |
-| 02:00 | Communication Workshop |
+| 02:00 | Workshop |
 | 03:30 | Lecture: Object-Oriented Relationships |
 | 05:00 | Labs! Labs! Labs! |
 

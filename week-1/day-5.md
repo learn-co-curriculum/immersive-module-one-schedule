@@ -2,22 +2,18 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Hi from Career Services with Jess Lava (Turing) |
-| 09:30 | You've got labs |
-| 10:00 | Lecture with Steven (Kay) |
+| 09:00 | Hi from Career Services |
+| 09:30 | You've got Labs |
+| 10:00 | Lecture - Inheritance and Mixins |
 | 12:00 | Lunch |
-| 01:00 | Work on CLI Project |
+| 01:00 | Labs|
 | 03:00 | Feelings Friday (Turing) |
-| 04:00 | Work on CLI Project |
 
 ### Today's Topics
-+ Object Oriented Ruby - Final Projects
++ Object Oriented Ruby: BONUS: Final Projects
 + Object Oriented Ruby - BONUS: Scraping
 
-### Lecture Topics
-+ Environment Setup (bundler, requiring files)
-+ Testing
-+ CLI Applications
+
 
 ### Notes
 

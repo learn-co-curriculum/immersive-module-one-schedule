@@ -4,7 +4,7 @@
 | --- | --- |
 | 09:00 | Work on Labs |
 | 09:30 | Blogs |
-| 10:30 | Lecture: Wrap Up Boats (Kay) |
+| 10:30 | Lecture: ActiveRecord Query Methods |
 | 12:00 | Lunch |
 | 01:00 | Labs! Labs! Labs! |
 | 05:00 | Feelings Friday (Turing) |
