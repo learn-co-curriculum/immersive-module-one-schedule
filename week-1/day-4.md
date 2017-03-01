@@ -27,6 +27,6 @@ Grab a pair and work together on the three OO labs (My Pets, Kickstarter and Ban
 
 ### Labs
 
-- [oo-my-pets](https://github.com/learn-co-students/oo-my-pets-web-0217)
-- [oo-kickstarter](https://github.com/learn-co-students/oo-kickstarter-web-0217)
-- [oo-banking](https://github.com/learn-co-students/oo-banking-web-0217)
+- [oo-my-pets]
+- [oo-kickstarter]
+- [oo-banking]

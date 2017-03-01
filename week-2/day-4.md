@@ -11,7 +11,3 @@
 
 ### Today's Topics
 + ORMs And ActiveRecord - ActiveRecord
-
-
-### Labs
-Nothing new tonight.  Keep working on things that have already been deployed.  If you're done with all the things, go back to an early lab and write a better solution. Or read some documentation - I hear the String docs are amazing.

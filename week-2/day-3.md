@@ -14,15 +14,12 @@
 ### Today's Topics
 + ORMs And ActiveRecord - ORMs
 
-### Notes
-
-FACT: You can't spell fun without ORMs. Tim Holman's speaking today.  This is optional, but, he's always a crowd favorite so we highly recommend attending. Also, you'll get wisdom on technical presentations from our very own Joe Burgess.
 
 ### Objectives
 - Learn how ORMs work
 - Understand how Ruby and SQL talk to each other
 
 ### Labs
-- [Activerecord CRUD](https://github.com/learn-co-students/activerecord-crud-web-0217_)
-- [Active Record Association Methods](https://github.com/learn-co-students/Active-Record-Association-Methods-web-0217)
-- [Model Class Methods Lab](https://learn.co/tracks/web-dev-2017/orms-and-active-record/associations/model-class-methods-lab)
+- [Activerecord CRUD]
+- [Active Record Association Methods]
+- [Model Class Methods Lab]

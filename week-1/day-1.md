@@ -26,6 +26,6 @@
 TODO: Add link to deploy on day one activity here...
 
 ### Labs
-- [deploy-on-day-1](http://www.github.com/learn-co-students/deploy-on-day-1-web-0217)
-- [advanced-hashes-hashketball](http://www.github.com/learn-co-students/advanced-hashes-hashketball-web-0217)
-- [hashketball-group-readme](http://www.github.com/learn-co-students/hashketball-group-readme-web-0217)
+- [deploy-on-day-1]
+- [advanced-hashes-hashketball]
+- [hashketball-group-readme]

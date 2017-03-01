@@ -18,6 +18,6 @@
 - Become comfortable writing SQL statements to create tables that have complex relations with each other
 
 ### Labs
-- [ORM Update Lab](https://github.com/learn-co-students/orm-update-lab-web-0217)
-- [Bringing It All Together](https://github.com/learn-co-students/bringing-it-all-together-web-0217)
-- [Dynamic Orm Inheritance](https://github.com/learn-co-students/dynamic-orm-inheritance-web-0217)
+- [ORM Update Lab]
+- [Bringing It All Together]
+- [Dynamic Orm Inheritance]

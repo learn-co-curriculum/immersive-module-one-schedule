@@ -28,10 +28,10 @@
 ### Labs
 
 
-- [Group Project- star-wars-api](https://github.com/learn-co-students/apis-and-iteration-web-0217)
+- [Group Project- star-wars-api]
 
 #### Homework
 
-- [classes-and-instances-lab](https://github.com/learn-co-students/classes-and-instances-lab-ruby-web-0217)
-- [oo-cash-register](https://github.com/learn-co-students/oo-cash-register-web-0217)
-- [puppy-lab](https://github.com/learn-co-students/ruby-puppy-web-0217)
+- [classes-and-instances-lab]
+- [oo-cash-register]
+- [puppy-lab]
