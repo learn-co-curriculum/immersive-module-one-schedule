@@ -2,9 +2,9 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on Labs |
-| 09:30 | Quiz:  |
-| 11:30 | Lunch |
-| 12:30 | Review Quiz |
-| 01:30 | Labs  |
+| 09:00 | TODO: Project Euler |
+| 09:30 | Quiz |
+| 11:00 | Labs |
+| 12:00 | Lunch |
+| 1:00  | Group Project |
 | 03:00 |  Start Project Ideation |
